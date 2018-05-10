@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/licslan-hwl-configclient/licslan-hwl-configclient.iml" filepath="$PROJECT_DIR$/licslan-hwl-configclient/licslan-hwl-configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licslan-hwl-configserver/licslan-hwl-configserver.iml" filepath="$PROJECT_DIR$/licslan-hwl-configserver/licslan-hwl-configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licslan-hwl-consumer/licslan-hwl-consumer.iml" filepath="$PROJECT_DIR$/licslan-hwl-consumer/licslan-hwl-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licslan-hwl-consumer1/licslan-hwl-consumer1.iml" filepath="$PROJECT_DIR$/licslan-hwl-consumer1/licslan-hwl-consumer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licslan-hwl-eurekaclient/licslan-hwl-eurekaclient.iml" filepath="$PROJECT_DIR$/licslan-hwl-eurekaclient/licslan-hwl-eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licslan-hwl-eurekaclient1/licslan-hwl-eurekaclient1.iml" filepath="$PROJECT_DIR$/licslan-hwl-eurekaclient1/licslan-hwl-eurekaclient1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licslan-hwl-eurekaserver/licslan-hwl-eurekaserver.iml" filepath="$PROJECT_DIR$/licslan-hwl-eurekaserver/licslan-hwl-eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licslan-hwl-srpingcloud.iml" filepath="$PROJECT_DIR$/licslan-hwl-srpingcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/licslan-hwl-zuul/licslan-hwl-zuul.iml" filepath="$PROJECT_DIR$/licslan-hwl-zuul/licslan-hwl-zuul.iml" />
+    </modules>
+  </component>
+</project>

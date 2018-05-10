@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="licslan-hwl-configclient" />
+        <module name="licslan-hwl-configserver" />
+        <module name="licslan-hwl-consumer" />
+        <module name="licslan-hwl-consumer1" />
+        <module name="licslan-hwl-eurekaclient" />
+        <module name="licslan-hwl-eurekaclient1" />
+        <module name="licslan-hwl-eurekaserver" />
+        <module name="licslan-hwl-zuul" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="licslan-hwl-configclient" target="1.8" />
+      <module name="licslan-hwl-configserver" target="1.8" />
+      <module name="licslan-hwl-consumer" target="1.8" />
+      <module name="licslan-hwl-consumer1" target="1.8" />
+      <module name="licslan-hwl-eurekaclient" target="1.8" />
+      <module name="licslan-hwl-eurekaclient1" target="1.8" />
+      <module name="licslan-hwl-eurekaserver" target="1.8" />
+      <module name="licslan-hwl-srpingcloud" target="1.6" />
+      <module name="licslan-hwl-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

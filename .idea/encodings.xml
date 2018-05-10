@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/licslan-hwl-configclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/licslan-hwl-configserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/licslan-hwl-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/licslan-hwl-consumer1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/licslan-hwl-eurekaclient" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/licslan-hwl-eurekaclient1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/licslan-hwl-eurekaserver" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/licslan-hwl-zuul" charset="UTF-8" />
+  </component>
+</project>
