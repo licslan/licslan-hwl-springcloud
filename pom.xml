@@ -17,6 +17,9 @@
         <module>licslan-hwl-zuul</module>
         <module>licslan-hwl-configserver</module>
         <module>licslan-hwl-configclient</module>
+	 <module>licslan-hwl-zipkin</module>
+        <module>licslan-hwl-consumer2</module>
+        <module>licslan-hwl-consumer3</module>
     </modules>
 
 
