@@ -20,6 +20,8 @@
 	 <module>licslan-hwl-zipkin</module>
         <module>licslan-hwl-consumer2</module>
         <module>licslan-hwl-consumer3</module>
+        <module>licslan-hwl-consumer2peers</module>
+        <module>licslan-hwl-eurekaserverpeers</module>
     </modules>
 
 
